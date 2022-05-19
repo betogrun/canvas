@@ -1,6 +1,6 @@
 # Canvas
 
-Ruby on Rails 7 application dockerized boilerplate.
+Boilerplate for a dockerized Ruby on Rails 7 application with esbuild and Tailwind.
 
 ## Create the database
 ```
